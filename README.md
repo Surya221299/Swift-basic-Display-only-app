@@ -4,7 +4,7 @@ This is display only app without using code, just using the Xcode iOS Component 
 ## **_App demo_**
 *This is display only app with zero code
 
-![Simulator Screen Shot - iPhone 11 - 2023-04-26 at 19 38 57](https://user-images.githubusercontent.com/60531747/234591938-ac6df03c-f522-4e32-b259-47f19b9d514e.png)
+![Simulator Screen Shot](https://user-images.githubusercontent.com/60531747/234601232-3fe68625-b42a-42eb-a8c5-53f8dd90b453.png)
 
 ## *Development step by step*
 ### Add background image:
